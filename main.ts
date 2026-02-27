@@ -1,4 +1,4 @@
-music.play(music.stringPlayable("- - - - - - - - ", 120), music.PlaybackMode.UntilDone)
+basic.showIcon(IconNames.Heart)
 basic.forever(function () {
 	
 })
