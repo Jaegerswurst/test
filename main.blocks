@@ -1,7 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="3`Eb$L+ss.TVi^U$U))d" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="=B|RLu-)OLltWyRqYrpP"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="3`Eb$L+ss.TVi^U$U))d" x="52" y="55"><statement name="HANDLER"><block type="device_show_leds" id="=B|RLu-)OLltWyRqYrpP"><field name="LEDS">`
         . . . . . 
         . . # . . 
         . # # # . 
         . . # . . 
         . . . . .
-        `</field></block></statement></block><block type="pxt-on-start" id="U!#uwlLpHL/cS+@%t6Ej" x="1" y="392"></block></xml>
+        `</field></block></statement></block><block type="device_gesture_event" id="E.:MRu}-jS[KM|N_EhU*" x="569" y="227"><field name="NAME">Gesture.Shake</field></block><block type="pxt-on-start" id="U!#uwlLpHL/cS+@%t6Ej" x="1" y="392"></block></xml>
